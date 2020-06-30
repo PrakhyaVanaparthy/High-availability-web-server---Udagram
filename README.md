@@ -1,4 +1,4 @@
-# High-availability-web-server---Udagram
+# High-availability-web-server--Udagram
 
 Deployed highly available web server using CloudFormation Scripts. 
 
